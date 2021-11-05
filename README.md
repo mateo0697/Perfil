@@ -7,14 +7,14 @@ I am Mateo Paluci, i work mainly as an Full Stack Developer but also i'm going t
 
 ### Technologies
 
-#JavaScript
-#React
-#Redux
-#Express
-#Node.js
-#Sequelize
-#PostgreSQL
-#CSS3
+#### JavaScript
+#### React
+#### Redux
+#### Express
+#### Node.js
+#### Sequelize
+#### PostgreSQL
+#### CSS3
 
 
 ## My Projects
@@ -26,7 +26,7 @@ In this project i used React-Redux to create and manipulate the flow of the page
 
 
 ### If you want to talk more here's some links
-#Gmail
+# Gmail
 (mailto:mateopaluci@gmail.com)
-#Linkedin
+# Linkedin
 (https://www.linkedin.com/in/mateo-paluci/)
