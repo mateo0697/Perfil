@@ -25,8 +25,8 @@ In FavDogs you can search your favorite dog and learn a lot about them, also you
 In this project i used React-Redux to create and manipulate the flow of the pages, Express, Sequelize and PostgreSQL for saving all the data, and pure css in the design
 
 
-### If you want to talk more here's some links
-# Gmail
+## If you want to talk more here's some links
+### Gmail
 (mailto:mateopaluci@gmail.com)
-# Linkedin
+### Linkedin
 (https://www.linkedin.com/in/mateo-paluci/)
